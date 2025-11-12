@@ -13,14 +13,14 @@
 
 
 # Flechha
-print("    *\n"
-      "   * *\n"
-      "  *   *\n"
-      "***   ***\n"
-      "  *   *\n"
-      "  *   *\n"
-      "  *****"
-)
+# print("    *\n"
+#       "   * *\n"
+#       "  *   *\n"
+#       "***   ***\n"
+#       "  *   *\n"
+#       "  *   *\n"
+#       "  *****"
+# )
 
 # print("        *        "*2)
 # print("       * *       "*2)
@@ -39,10 +39,12 @@ print("    *\n"
 # print("     *     *     "*2)
 # print("     *******     "*2)
 
-print("H","E","L","L","O", sep="-")
+# print("H","E","L","L","O", sep="-")
 
-print(0o123)
+# print(0o123)
 
-print(0.0000000000000000000001)
+# print(0.0000000000000000000001)
 
-print('Me gusta "El cafe"')
+# print('Me gusta "El cafe"')
+
+print("\"Estoy\"\n\"\"Aprendiendo\"\"\n\"\"\"Python\"\"\"")
