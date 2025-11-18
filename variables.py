@@ -17,6 +17,13 @@
 # var = var + 1
 # print(var)
 
-var = 100
-var = 200 + 300
-print(var)
+# var = 100
+# var = 200 + 300
+# print(var)
+
+
+a = 3.0
+b = 4.0
+
+result = (a ** 2  + b ** 2) ** 0.5
+print('El resultado es:',  result)
