@@ -22,8 +22,18 @@
 # print(var)
 
 
-a = 3.0
-b = 4.0
+# a = 3.0
+# b = 4.0
 
-result = (a ** 2  + b ** 2) ** 0.5
-print('El resultado es:',  result)
+# result = (a ** 2  + b ** 2) ** 0.5
+# print('El resultado es:',  result)
+
+# UN ESCENARIO PLANTEADO
+juan = 3
+maria = 5
+adan = 6
+
+totalApples = (juan + maria + adan)
+
+print(juan, maria, adan)
+print(totalApples)
