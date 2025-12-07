@@ -29,11 +29,16 @@
 # print('El resultado es:',  result)
 
 # UN ESCENARIO PLANTEADO
-juan = 3
-maria = 5
-adan = 6
+# juan = 3
+# maria = 5
+# adan = 6
 
-totalApples = (juan + maria + adan)
+# totalApples = (juan + maria + adan)
 
-print(juan, maria, adan)
-print(totalApples)
+# print(juan, maria, adan)
+# print(totalApples)
+
+leg_a = float(input("Ingrese la longitud del primer cateto"))
+leg_b = float(input("Ingrese la longitud del segundo cateto"))
+hypo = (leg_a ** 2 + leg_b ** 2) ** .5
+print("La longitud de la hipotenusa es:", hypo)
