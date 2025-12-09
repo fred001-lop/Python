@@ -1,13 +1,13 @@
-
-imp = float(input("Ingrese su Ingreso"))
-
-
-if imp < 85528:
-    total = imp * 0.18 -556.02
+x = 1
+y = 1.0
+z = "1"
+ 
+if x == y:
+    print("one")
+if y == int(z):
+    print("two")
+elif x == y:
+    print("three")
 else:
-    total = (imp - 85528) * 0.32 + 14839.02
-if total < 0.0:
-    total = 0.0
-
-total = round(total, 0)
-print("El impuesto es:", total, "$")
+    print("four")
+ 
