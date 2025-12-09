@@ -6,8 +6,10 @@ number_2 = int(input("Ingrese el segundo numero "))
 
 #funcion
 
-if number_1 > number_2: larger_number = number_1
-else: larger_number = number_2
+if number_1 > number_2:
+    larger_number = number_1
+else:
+    larger_number = number_2
 
 print("El numero mas grande es:", + larger_number)
 
